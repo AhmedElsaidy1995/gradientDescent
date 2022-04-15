@@ -1,2 +1,2 @@
 Gradient Descent
-Different Gredient Descent Algorithms From Numirical Optmization Course
+Different Gradient Descent Algorithms From Numirical Optmization Course
